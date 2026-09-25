@@ -1,5 +1,5 @@
 {
-    "activo": false,
+    "activo": true,
     "mensaje": "Hay una nueva versión disponible. Actualiza para seguir usando la app.",
     "url_actualizacion": "https://blacklink.site/keypatomenu"
 }
